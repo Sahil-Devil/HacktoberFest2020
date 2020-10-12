@@ -14,3 +14,4 @@ function hourglass()
 }	
 hourglass();	
 setInterval(hourglass, 3000);
+#edited by Sahil Bansal
